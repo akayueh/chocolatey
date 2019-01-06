@@ -2,3 +2,4 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 
 choco install adobereader -y
 choco install googlechrome -y
+choco install notepadplusplus.install -y
