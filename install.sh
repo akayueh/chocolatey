@@ -9,3 +9,10 @@ cinst teamviewer -y
 cinst postman -y
 cinst gimp -y
 cinst winmerge -y
+cinst pgadmin3 -y
+cinst sql-server-management-studio -y
+cinst mysql.workbench -y
+cinst evernote -y
+cinst audacity -y
+cinst cyberduck -y
+cinst dashlane -y
