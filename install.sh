@@ -16,3 +16,7 @@ cinst evernote -y
 cinst audacity -y
 cinst cyberduck -y
 cinst dashlane -y
+cinst cutepdf -y
+cinst jetbrainstoolbox -y
+cinst ultravnc -y
+cinst winmerge -y
