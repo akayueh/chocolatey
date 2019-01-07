@@ -20,3 +20,7 @@ cinst cutepdf -y
 cinst jetbrainstoolbox -y
 cinst ultravnc -y
 cinst winmerge -y
+cinst kdiff3 -y
+cinst git -y
+cinst gitextensions -y
+cinst filezilla -y
